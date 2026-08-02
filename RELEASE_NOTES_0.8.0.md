@@ -10,7 +10,7 @@
 
 ## 安装与升级
 
-- 安装包：`Offline Screenshot OCR-0.8.0-Setup.exe`
+- 安装包：`Offline.Screenshot.OCR-0.8.0-Setup.exe`
 - 支持从0.7.8覆盖安装，保留当前用户设置、授权、历史和截图。
 - 在线更新仍只提示用户打开GitHub Release，不静默安装。
 

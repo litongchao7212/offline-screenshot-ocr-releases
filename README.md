@@ -17,9 +17,9 @@
 
 从[Releases](https://github.com/litongchao7212/offline-screenshot-ocr-releases/releases)下载：
 
-`Offline Screenshot OCR-0.8.0-Setup.exe`
+`Offline.Screenshot.OCR-0.8.0-Setup.exe`
 
-安装包在本机与GitHub使用完全相同的英文文件名。下载后请用仓库中的`SHA256.txt`核对完整性。
+GitHub会把附件名中的空格替换为点号，因此安装包在本机与GitHub统一使用上述英文点号文件名。下载后请用仓库中的`SHA256.txt`核对完整性。
 
 ## 更新方式
 
