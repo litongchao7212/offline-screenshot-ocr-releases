@@ -1,1 +1,1 @@
-5712ae573fb030e6966c5ef4805040b68b9fd59dd4364142956995ddfd1b36ee  OCR-0.7.8-Setup.exe
+﻿241cb6471a610fb4e0c7fd98d432c6337516f296e0f5bf0c67d5bbe36c479aff  Offline Screenshot OCR-0.8.0-Setup.exe
