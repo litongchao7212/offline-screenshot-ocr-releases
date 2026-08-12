@@ -1,1 +1,1 @@
-7fb8a55bc5123b8c73f14533afc87b4dfe4676d6465caa7c7aa4df35f400c2fd  Offline.Screenshot.OCR-0.8.2-Setup.exe
+c959aebbccb39116b719f1cbbb83c67bd318142e24ce6baf0d7cefefe001d708  Offline.Screenshot.OCR-0.8.7-Setup.exe
